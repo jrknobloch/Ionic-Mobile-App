@@ -1,0 +1,94 @@
+{
+  "calendar": [ 
+    {
+      "weekday": "Satuday, May 21, 2016",
+      "schedule": [
+        {
+          "time": "7:00pm-8:00pm",
+          "shortname": "Siddhartha_Mukherjee",
+          "artist": "Siddhartha Mukherjee",
+          "location": "Book Passage, Corte Madera",
+          "description": "The extraordinary Siddhartha Mukherjee has a written a biography of the gene as deft, brilliant, and illuminating as his extraordinarily successful biography of cancer. Weaving science, social history, and personal narrative to tell us the story of one of the most important conceptual breakthroughs of modern times, Mukherjee animates the quest to understand human heredity and its surprising influence on our lives, personalities, identities, fates, and choices.",
+          "title": "The Gene: An Intimate History"
+        }
+      ]
+    },{
+      "weekday": "Tuesday, May 24, 2016",     
+      "schedule": [
+        {
+          "time": "6:00pm - 7:00pm",
+          "shortname": "Nick_Bantock",
+          "artist": "Nick Bantock",
+          "location": "Ferry Building, San Francisco",
+          "description": "A love story for the ages, the tale of Griffin and Sabine is an international sensation that spent over 100 weeks on the New York Times bestseller list and continues to beguile readers 25 years after its original publication. Here to celebrate that anniversary is the final volume in Griffin and Sabine's story—a book that can be enjoyed as a singular reading experience or in conjunction with the series as a whole. The Pharos Gate rejoices in the book as physical object, weaving together word and image in beautifully illustrated postcards and removable letters that reveal a sensual and metaphysical romance, one full of mystery and intrigue.",
+          "title": "The Pharos Gate"
+        }
+      ]
+    },
+    {
+      "weekday": "Tuesday, May 24, 2016",
+      "schedule": [
+        {
+          "time": "7:00pm - 8:00pm",
+          "shortname": "Lindy_West",
+          "artist": "Lindy West",
+          "location": "Book Passage, Corte Madera",
+          "description": "The book is comprised of a series of essays that bravely shares her life, including her transition from quiet to feminist-out-loud, coming of age in a popular culture that is hostile to women (especially fat, funny women) and how keeping quiet is not an option for any of us.",
+          "title": "Shrill"
+        }
+      ]
+    },
+    {
+      "weekday": "Wednesday, June 1, 2016",
+      "schedule": [
+        {
+          "time": "6:30m - 7:30pm",
+          "shortname": "Joyce_Goldstein",
+          "artist": "Joyce Goldstein",
+          "location": "Spinster Sisters Restaurant in Santa Rosa",
+          "description": "The New Mediterranean Jewish Table is an authoritative guide to Jewish home cooking from North Africa, Italy, Greece, Turkey, Spain, Portugal, and the Middle East. It is a treasury filled with vibrant, seasonal recipes—both classic and updated—that embrace fresh fruits and vegetables; grains and legumes; small portions of meat, poultry, and fish; and a healthy mix of herbs and spices. It is also the story of how Jewish cooks successfully brought the local ingredients, techniques, and traditions of their new homelands into their kitchens. With this varied and appealing selection of Mediterranean Jewish recipes, Joyce Goldstein promises to inspire new generations of Jewish and non-Jewish home cooks alike with dishes for everyday meals and holiday celebrations.",
+          "title": "The New Mediterranean Jewish Table"
+        }
+      ]
+    }
+  ],
+  "artists": [
+    {
+      "book": "Shrill",
+      "shortname": "Lindy_West",
+      "name": "Lindy West",
+      "bio": "Lindy West is a Seattle-based writer, editor, and performer whose work focuses on pop culture, social justice, humor, and body image. She's currently a culture writer for GQ Magazine and GQ.com and a weekly columnist at The Guardian, as well as the founder and editor of I Believe You."
+    },{
+      "book": "Grit",
+      "shortname": "Angela_Duckworth",
+      "name": "Dr. Angela Duckworth",
+      "bio": "Angela Duckworth, PhD, is a 2013 MacArthur Fellow and professor of psychology at the University of Pennsylvania. An expert in non-I.Q. competencies, she has advised the White House, the World Bank, NBA and NFL teams, and Fortune 500 CEOs. Prior to her career in research, she was an award-winning math and science teacher as well as the founder of a summer school for low-income children that won the Better Government Award from the state of Massachusetts. She completed her BA in neurobiology at Harvard, her MSc in neuroscience at Oxford, and her PhD in psychology at the University of Pennsylvania. More recently, she founded the Character Lab, a nonprofit whose mission is to advance the science and practice of character development in children."
+    },{
+      "book": "The Gene: An Intimate History",
+      "shortname": "Siddhartha_Mukherjee",
+      "name": "Siddhartha Mukherjee",
+      "bio": "Siddhartha Mukherjee is the author of The Emperor of All Maladies: A Biography of Cancer, winner of the 2011 Pulitzer Prize in general nonfiction, and The Laws of Medicine. He is the editor of Best Science Writing 2013. He is an assistant professor of medicine at Columbia University and a cancer physician and researcher. A Rhodes scholar, he graduated from Stanford University, University of Oxford, and Harvard Medical School. He has published articles in Nature, The New England Journal of Medicine, The New York Times, and Cell."
+    },{
+      "book": "Marie Simmons - Whole World Vegetarian",
+      "shortname": "Marie_Simmons",
+      "name": "Marie Simmons",
+      "bio": "The best of our vegetarian recipes have always drawn inspiration from other cultures. In Whole World Vegetarian, Marie Simmons follows her culinary wanderlust, bringing together a collection of bold, imaginative dishes and seamlessly adapting them to contemporary tables. Cooks can expect a wealth of sumptuous options: rice- and corn-stuffed poblano chiles; Greek-style mac-and-cheese with summer squash; Indonesian vegetable salad with peanut dressing. Even the homiest dishes deliver rich rewards, like South American pumpkin–black bean stew with prunes. All have fresh twists: In a zucchini lasagna, squash replaces pasta, and a cold beet soup is replete with chopped fresh tomatoes, cucumbers, and apples. A Persian herb omelet gets an unexpected lift with baking powder. From a quick and little-known dip of Iranian yogurt, spinach, and caramelized onions garnished with toasted walnuts to shakshuka, a spicy Tunisian ratatouille crowned with poached eggs and fresh herbs, all become accessible and inviting under Simmon's guidance."
+    },{
+      "book": "The Pharos Gate",
+      "shortname": "Nick_Bantock",
+      "name": "Nick Bantock",
+      "bio": "Nick Bantock was born and raised in England, now lives in Victoria, British Columbia. An acclaimed writer and artist, he is the author of books ranging from fiction to creative inspiration. His art is publicly and privately collected throughout the world."
+    },{
+      "book": "The New Mediterranean Jewish Table",
+      "shortname": "Joyce_Goldstein",
+      "name": "Joyce Goldstein",
+      "bio": "Joyce Goldstein was chef and owner of the groundbreaking Mediterranean restaurant Square One in San Francisco. Prior to opening Square One, she was chef at the Chez Panisse Café and visiting executive chef at the Wine Spectator Restaurant at the Culinary Institute of America in Napa. Today she is a cooking teacher, consultant to the restaurant and food industries, and prolific cookbook author."
+   },{
+      "book": "32 Yolks: From My Mother's Table to Working the Line",
+      "shortname": "Eric_Ripert",
+      "name": "Eric Ripert",
+      "bio": "Eric Ripert is the co-author of the recently published On the Line: Inside the world of Le Bernardin, and chef and part-owner of Le Bernardin, awarded four stars by The New York Times, three stars by the Michelin Guide, and rated best restaurant in New York by Zagat. He is a frequent guest on such national shows as Bravo's Top Chef, Today, Charlie Rose, Martha, and Anthony Bourdain's No Reservations. He has opened two new restaurants, 10 Arts in the Philadelphia Ritz-Carlton and Westend Bistro in Washington, D.C. You can watch Eric Ripert in action on his forthcoming television show 'Avec Eric' and on his Web site, www.aveceric.com."
+
+    }
+  ]
+}
